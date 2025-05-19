@@ -1,10 +1,21 @@
 # Nascar Analysis
 
-Using public APIs and Python (Pandas, Plotly, requests)
+Using public APIs and Python (Pandas, Plotly, requests) to gather data and plot visualizations
 
 ---
 
-### [Lap Times by Lap](https://github.com/JarKanni/nascar/blob/main/lap_times_by_race.ipynb)
-- finds average and min/max lap times
-- filters out slow laps (yellow flags, pitting, etc)
-- includes graph showing tire degredation throughout the race
+### structure:
+
+##### data
+- files split by race
+
+##### viz
+- charts and other visualizations produced
+
+##### main folder
+- jupyter notebooks used to collect, manipulate, and graph data
+
+
+
+## Sources Used
+- [NASCAR API -- ooohfascinating](https://github.com/ooohfascinating/NascarApi)
