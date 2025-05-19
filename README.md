@@ -8,9 +8,12 @@ Using public APIs and Python (Pandas, Plotly, requests) to gather data and plot 
 
 ##### data
 - files split by race
+	- currently only 2025 races
 
 ##### viz
 - charts and other visualizations produced
+	- tire degredation
+	- laptimes by lap
 
 ##### main folder
 - jupyter notebooks used to collect, manipulate, and graph data
