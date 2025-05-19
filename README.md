@@ -13,7 +13,7 @@ Using public APIs and Python (Pandas, Plotly, requests) to gather data and plot 
 ##### viz
 - charts and other visualizations produced
 	- tire degredation
-	- laptimes by lap
+	- position change from start to finish
 
 ##### main folder
 - jupyter notebooks used to collect, manipulate, and graph data
