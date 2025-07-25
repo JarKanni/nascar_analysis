@@ -1,0 +1,39 @@
+race_id,race,date,start_time,name,track,stage_1,stage_2,stage_3,stage_4,total_laps
+1,0,2/2/2025,8:00 PM,Cook Out Clash,Bowman Gray Stadium,100,200,0,0,300
+2,1,2/16/2025,2:30 PM,Daytona 500,Daytona International Speedway,65,130,200,0,395
+3,2,2/23/2025,3:00 PM,Ambetter Health 400,Atlanta Motor Speedway,60,160,260,0,480
+4,3,3/2/2025,3:30 PM,Echopark Texas Grand Prix,Circuit of the Americas,20,45,95,0,160
+5,4,3/9/2025,3:30 PM,Shriners Children's 500,Phoenix Raceway,60,185,312,0,557
+6,5,3/16/2025,3:30 PM,Pennzoil 400,Las Vegas Motor Speedway,80,165,267,0,512
+7,6,3/23/2025,3:00 PM,Straight Talk Wireless 400,Homestead-Miami Speedway,80,165,267,0,512
+8,7,3/30/2025,3:00 PM,Cook Out 400,Martinsville Speedway,80,180,400,0,660
+9,8,4/6/2025,3:00 PM,Goodyear 400,Darlington Raceway,90,185,293,0,568
+10,9,4/13/2025,3:00 PM,Food City 500,Bristol Motor Speedway,125,250,500,0,875
+11,10,4/27/2025,3:00 PM,Jack Link's 500,Talladega Superspeedway,60,120,188,0,368
+12,11,5/4/2025,3:30 PM,Wurth 400,Texas Motor Speedway,80,165,267,0,512
+13,12,5/11/2025,3:00 PM,AdventHealth 400,Kansas Speedway,80,165,267,0,512
+14,0,5/18/2025,8:00 PM,All-Star Race,North Wilkesboro Speedway,250,0,0,0,250
+15,13,5/25/2025,6:00 PM,Coca-Cola 600,Charlotte Motor Speedway,100,200,300,400,1000
+16,14,6/1/2025,7:00 PM,Cracker Barrel 400,Nashville Superspeedway,90,185,300,0,575
+17,15,6/8/2025,2:00 PM,FireKeepers Casino 400,Michigan International Speedway,45,120,200,0,365
+18,16,6/15/2025,3:00 PM,Viva México 250,Autódromo Hermanos Rodríguez,20,45,100,0,165
+19,17,6/22/2025,2:00 PM,HighPoint.com 400,Pocono Raceway,30,95,160,0,285
+20,18,6/28/2025,7:00 PM,Quaker State 400,Atlanta Motor Speedway,60,160,260,0,480
+21,19,7/6/2025,4:30 PM,Grant Park 165,Chicago Street Course,20,45,75,0,140
+22,20,7/13/2025,3:30 PM,Toyota/Save Mart 350,Sonoma Raceway,25,55,110,0,190
+23,21,7/20/2025,3:00 PM,Wurth 400,Dover Motor Speedway,120,250,400,0,770
+24,22,7/27/2025,2:30 PM,Brickyard 400,Indianapolis Motor Speedway,50,100,160,0,310
+25,23,8/3/2025,3:30 PM,Iowa Corn 350,Iowa Speedway,70,210,350,0,630
+26,24,8/10/2025,2:00 PM,Go Bowling at the Glen,Watkins Glen International,20,40,90,0,150
+27,25,8/16/2025,7:30 PM,Cook Out 400,Richmond Raceway,70,230,400,0,700
+28,26,8/23/2025,7:30 PM,Coke Zero Sugar 400,Daytona International Speedway,35,95,160,0,290
+29,27,8/31/2025,6:00 PM,Southern 500,Darlington Raceway,115,230,367,0,712
+30,28,9/7/2025,3:00 PM,Enjoy Illinois 300,World Wide Technology Raceway,45,140,240,0,425
+31,29,9/13/2025,7:30 PM,Bass Pro Shops Night Race,Bristol Motor Speedway,125,250,500,0,875
+32,30,9/21/2025,2:00 PM,USA Today 301,New Hampshire Motor Speedway,70,185,301,0,556
+33,31,9/28/2025,3:00 PM,Hollywood Casino 400,Kansas Speedway,80,165,267,0,512
+34,32,10/6/2025,2:00 PM,Bank of America ROVAL 400,Charlotte Motor Speedway Roval,25,50,109,0,184
+35,33,10/12/2025,3:00 PM,South Point 400,Las Vegas Motor Speedway,80,165,267,0,512
+36,34,10/19/2025,2:00 PM,YellaWood 500,Talladega Superspeedway,60,120,188,0,368
+37,35,10/26/2025,2:00 PM,Xfinity 500,Martinsville Speedway,130,260,500,0,890
+38,36,11/2/2025,3:00 PM,NASCAR Cup Series Championship,Phoenix Raceway,60,185,312,0,557
